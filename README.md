@@ -10,7 +10,7 @@ from telegram.ext import (
     ContextTypes,
 )
 
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN="8768417202:AAHNGe_n2LOYktRTgzlRfvYaQ5yZbh1JNBo"
 ADMIN_ID = 400641223
 
 # DATABASE
